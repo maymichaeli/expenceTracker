@@ -1,9 +1,9 @@
-import { useState } from 'react'
+import React from "react";
 
-const Expence = () =>{
+const Expense = () =>{
   return(
-    <div>Expence</div>
+    <div>Expense</div>
   )
 }
 
-export default App
+export default Expense
